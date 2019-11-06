@@ -1,0 +1,27 @@
+{
+  "name": "teamwork",
+  "version": "1.0.0",
+  "description": "DevCTrainingWithAndela Capstone Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chieloka/Teamwork.git"
+  },
+  "author": "Eloka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chieloka/Teamwork/issues"
+  },
+  "homepage": "https://github.com/chieloka/Teamwork#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-plugin-react": "^7.16.0",
+    "jasmine": "^3.5.0"
+  }
+}
